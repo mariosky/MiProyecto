@@ -1,1 +1,1 @@
-print "Hola Mundo Bello"
+print "Hola Mundo Hermoso"
